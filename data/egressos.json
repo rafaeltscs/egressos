@@ -141,7 +141,7 @@
   {
     "id": 20101370053,
     "nomeSimples": "Bruno Costa",
-    "nome": "Bruno Luis do Nascimento Costa",
+    "nome": "Bruno do Nascimento Costa",
     "email": "bruno.not@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/brunolncosta/",
     "curso": "cstsi",
@@ -217,7 +217,7 @@
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
-  {
+  { 
     "id": 20051370322,
     "nomeSimples": "Diénert Vieira",
     "nome": "Diénert de Alencar Vieira",
@@ -316,7 +316,6 @@
     "nomeSimples": "Gleydson Tavares",
     "nome": "Gleydson da Silva Tavares",
     "email": "tavares.gleydson@gmail.com",
-    "avatar": "20121370547.jpg",
     "linkedin": "https://www.linkedin.com/in/gleydsontavares/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
@@ -653,7 +652,6 @@
     "nomeSimples": "Nielson Rolim",
     "nome": "Nielson Dias de Pontes Sobreira Rolim",
     "email": "nielson.rolim@gmail.com",
-    "avatar": "20052370210.jpg",
     "linkedin": "https://www.linkedin.com/in/nielsonrolim/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
@@ -691,6 +689,16 @@
     "campus": "ifpb-jp"
   },
   {
+    "id": 20052370253,
+    "nomeSimples": "Rafael Chiappetta",
+    "nome": "Rafael da Trindade Serrano Chiappetta dos Santos",
+    "email" "rafaeltscs@gmail.com",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "linkedin": "https://www.linkedin.com/in/rafaeltc/",
+    "lattes": "http://lattes.cnpq.br/6853890918523557"
+  },
+  {
     "id": 20101370380,
     "nomeSimples": "Rafael Figueiredo",
     "nome": "Rafael Felipe de Figueiredo Pereira",
@@ -717,17 +725,7 @@
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
-  { 
-    "id": 20082370340,
-    "nomeSimples": "Ramon Pereira",
-    "nome": "Ramon Pereira Fernandes de Sousa",
-    "email": "ramonpfsousa@gmail.com",
-    "avatar": "20082370340.jpg",
-    "linkedin": "https://www.linkedin.com/in/ramonpfsousa/",
-    "curso": "cstsi",
-    "campus": "ifpb-jp"
-  },
-  { 
+  {
     "id": 20091370137,
     "nomeSimples": "Renan Gadelha",
     "nome": "Renan Marques Gadelha Rodrigues",
@@ -800,15 +798,10 @@
     "id": 20121370555,
     "nomeSimples": "Thiago Marinho",
     "nome": "Thiago Figueiredo Costa Marinho",
-    "email": "fcmthiago@gmail.com",
-    "curso": "cstsi",
-    "campus": "ifpb-jp",
+    "email": "thxyago_marinho@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/fcmthiago/",
-    "github": "https://github.com/fcmthiago",
-    "facebook": "https://www.facebook.com/FCM.Thiago",
-    "lattes": "http://lattes.cnpq.br/8196880164786574",
-    "twitter": "https://twitter.com/FCMThiago",
-    "instagram": "https://www.instagram.com/fcm_thiago/"
+    "curso": "cstsi",
+    "campus": "ifpb-jp"
   },
   {
     "id": 20082370227,
